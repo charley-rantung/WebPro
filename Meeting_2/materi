@@ -1,0 +1,19 @@
+=== Git Bash ===
+
+-> Basic
+ls - menampilkan isi dari direktori saat ini
+pwd - menampilkan detail posisi user saat ini
+cd - berpindah direktori
+mkdir - membuat firektori baru
+touch - membuat file baru
+rmdir - menghapus direktori
+
+-> Configuration
+git config --global user.email "email"
+git config --global user.name "username"
+
+-> Remote
+git clone - menyalin repositori github ke dalam perangkat komputer
+git add
+git commit -m "message"
+git push - melakukan penyalinan dari repositori lokal ke repositori github (sinkronisasi)
