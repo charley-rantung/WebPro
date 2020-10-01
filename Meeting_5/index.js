@@ -73,7 +73,7 @@ aangka.forEach(function(el){
     console.log(el)
 })//parameter el adalah untuk mengambil setiap elemen array
 
-//map sama dengan forEach tetapi mengembalikan nilai, jadi harus ditampung dalam variabel
+//map sama dengan forEach tetapi map mengembalikan nilai, jadi harus ditampung dalam variabel
 let aangka2 = aangka.map(function(el){
     console.log(el)
 })
