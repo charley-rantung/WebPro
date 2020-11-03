@@ -1,3 +1,5 @@
+//Modularisasi Javascript. Export dan import
+
 import {numbers, hello} from './hello.js'
 
 console.log(numbers);
